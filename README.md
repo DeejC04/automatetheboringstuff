@@ -2,7 +2,7 @@
 
 This repository is an effort to store my projects, practice questions, etc. in relation to *Automate the Boring Stuff with Python*.
 
-> **NOTE**: This is in no way meant to serve as something to just give answers to people. I am a newbie programmer just looking to document my learning journey. If you really want the answers, just go to **[here]**(https://automatetheboringstuff.com/2e/appendixc/). Al provides them to readers.
+> **NOTE**: This is in no way meant to serve as something to just give answers to people. I am a newbie programmer just looking to document my learning journey. If you really want the answers, just go to **[here](https://automatetheboringstuff.com/2e/appendixc/)**. Al provides them to readers.
 
 This is pretty much just for personal use as stated above.
 
