@@ -14,11 +14,9 @@ This is pretty much just for personal use as stated above.
 
 - [Website Home Page](https://automatetheboringstuff.com/)  
 
-- [Personal Course Folder](/automatetheboringstuff/) with my completed practice questions and projects
-
 ---
 
-## Chapters
+## Chapters and Personal Chapter Folders
 
 - [Introduction](https://automatetheboringstuff.com/2e/chapter0/)
   
