@@ -7,7 +7,9 @@
     **when the function is called**
 
 3. What statement creates a function?<br>
-    **def function_name (replace function_name with the actual function name)**
+    ```python
+    def function_name()
+    ```
 
 4. What is the difference between a function and a function call?<br>
     **A function is the definition of the function and what it does. A call executes that function.**
@@ -22,7 +24,10 @@
     **A return value is the value that a function evaluates to. It can be used as part of an expression**
 
 8. If a function does not have a return statement, what is the return value of a call to that function?<br>
-    **None (Not that there's no return statement. There is one, literally called "None")**
+    ```python
+    None
+    ``` 
+    **(Not that there's no return statement. There is one, literally called "None")**
 
 9. How can you force a variable in a function to refer to the global variable?<br>
     **Add the global command right before the variable.**
@@ -31,10 +36,10 @@
     ```
 
 10. What is the data type of None?<br>
-    NoneType
+    `NoneType`
 
 11. What does the import areallyourpetsnamederic statement do?<br>
-    Imports a module called areallyourpetsnamederic
+    Imports a module called `areallyourpetsnamederic`
 
 12. If you had a function named bacon() in a module named spam, how would you call it after importing spam?<br>
     ```python
@@ -42,11 +47,11 @@
     ```
 
 13. How can you prevent a program from crashing when it gets an error?<br>
-    **try and except**
+    **`try` and `except`**
 
 14. What goes in the try clause? What goes in the except clause?<br>
-    **try: the program that may crash**<br>
-    **except: is followed by the possible error it may produce, then under it (indented) is what the progarm should do instead**
+    **`try`: the program that may crash**<br>
+    **`except`: is followed by the possible error it may produce, then under it (indented) is what the progarm should do instead**
     ```python
     try:
         # code
